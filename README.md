@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Puneet Kumar gautam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="1000" src="https:Snapchat-1631196865](https://user-images.githubusercontent.com/112168198/186894183-0be5fa7c-14ec-4244-9ff9-7551e06679c3.jpg)
-                                                 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetkumargautam&label=Profile%20views&color=0e75b6&style=flat" alt="puneetkumargautam" /> </p>
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/112168198/186894183-0be5fa7c-14ec-4244-9ff9-7551e06679c3.jpg">
+                                                
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
